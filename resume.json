@@ -1,0 +1,195 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Anthony Mosley",
+    "label": "Computer Science Major at WCU",
+    "image": "",
+    "email": "ajmosley345@gmail.com",
+    "phone": "7173710907",
+    "url": "",
+    "summary": "Senior CSC student, future Software Programmer/Systems Administrator. My family's college history led me to West Chester University, and my passion for computer science as a whole has kept me going.\n\nThe CSC department at WCU has provided me an amazing path to learn the basics and even move forward to more advanced fields within the overall computer science field. During my sophomore year I was in a Work Study within the IT department with a focus on Computer Operations. I worked with a server to set up virtual machines with multiple functions.\n\nDuring my second year I focused on Full-Stack web development, mostly with a focus on React and Django. Last summer I had an internship with Stoner Solutions in Quarryville, PA as a Network Admin Intern. I came back this past Winter and plan to intern with them again this coming Summer. I'm planning to dive headfirst into Computer Security and finish out one of my last two semesters.",
+    "location": {
+      "countryCode": "US",
+      "address": "109 Woodcock Dr\nOxford, PA 19363"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anthony-mosley",
+        "url": "https://www.linkedin.com/in/anthony-mosley/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "West Chester University of Pennsylvania",
+      "position": "Undergraduate Student",
+      "startDate": "2020-08-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/18074",
+      "location": "West Chester, Pennsylvania, United States"
+    },
+    {
+      "name": "West Chester University of Pennsylvania",
+      "position": "Computer Operations",
+      "startDate": "2022-01-31",
+      "endDate": "2022-05-31",
+      "highlights": [],
+      "summary": "Worked with a server to learn about and deploy multiple virtual machines with varying purposes.",
+      "url": "https://www.linkedin.com/company/18074",
+      "location": "Pennsylvania, United States"
+    },
+    {
+      "name": "Stoner Inc.",
+      "position": "Junior System Administrator",
+      "startDate": "2023-03-31",
+      "endDate": "2023-08-31",
+      "highlights": [],
+      "summary": "Continued support of multiple departments with technical issues and setup.\nLed the setup of Active Directory Services and initiated a successful restructuring of the Active Directory framework.\nResearched potential solutions for issues that were slowing the team down.\nSpearheaded advanced security measures implementation to enhance network security.",
+      "url": "https://www.linkedin.com/company/9425698",
+      "location": "Quarryville, Pennsylvania, United States"
+    },
+    {
+      "name": "Stoner Inc.",
+      "position": "Junior Network Administrator/IT Support",
+      "startDate": "2022-05-31",
+      "endDate": "2022-08-31",
+      "highlights": [],
+      "summary": "Collaborated on cross-functional projects, making substantial contributions to team success.\nPlayed a key role in implementing a new phone system (RingCentral) and provided ongoing support.\nDelivered comprehensive technology solutions and efficiently resolved departmental issues.",
+      "url": "https://www.linkedin.com/company/9425698",
+      "location": "Quarryville, Pennsylvania, United States"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "West Chester University of Pennsylvania",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2020-08-31",
+      "endDate": "2024-05-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Systems Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMWare ESXi",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active Directory",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Active Directory",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Servers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Hardware Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conditional Access",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virtual Machines",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Help Desk Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Setup",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IT Hardware Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
